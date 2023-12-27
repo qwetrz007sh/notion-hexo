@@ -1,14 +1,10 @@
 ---
 cover: /images/f3217a53375fa77f12925bfbc2f46bb1.png
 categories: 博客折腾手册
-tags:
-  - notion
-  - blog
-  - elog
-  - 图床
+tags: []
 title: 利用github action自动同步notion文章到halo博客
 date: '2023-12-26 19:00:00'
-updated: '2023-12-27 10:00:00'
+updated: '2023-12-27 10:13:00'
 ---
 
 ## 如果notion你想改为中文：[https://greasyfork.org/zh-CN/scripts/430116-notion-zh-cn-notion的汉化脚本](https://greasyfork.org/zh-CN/scripts/430116-notion-zh-cn-notion%E7%9A%84%E6%B1%89%E5%8C%96%E8%84%9A%E6%9C%AC)
