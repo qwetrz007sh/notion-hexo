@@ -1,124 +1,31 @@
 {
   "docs": [
     {
-      "id": "c97762fc-f3ce-4d42-bbef-a25a5b741b7c",
-      "doc_id": "c97762fc-f3ce-4d42-bbef-a25a5b741b7c",
-      "updated": 1703643660000,
+      "id": "90d060e7-6d78-4f18-9824-260e95197194",
+      "doc_id": "90d060e7-6d78-4f18-9824-260e95197194",
+      "updated": 1703652960000,
       "properties": {
-        "cover": "/images/957bb3bec66723aab49d69ec5bd821b1.webp",
-        "categories": "linux",
+        "categories": "建站",
         "tags": [
-          "linux命令"
+          "docker",
+          "CF",
+          "反代"
         ],
-        "title": "Linux rsync 命令同步文件与目录文件夹",
-        "date": "2023-11-16 10:40:00",
-        "updated": "2023-12-27 10:21:00"
+        "title": "Docker一个反向代理神器—Nginx Proxy Manager",
+        "date": "2023-12-25 14:33:00",
+        "updated": "2023-12-27 12:56:00"
       },
-      "realName": "Linux rsync 命令同步文件与目录文件夹",
-      "relativePath": "/Linux rsync 命令同步文件与目录文件夹.md",
-      "docPath": "./source/_posts"
-    },
-    {
-      "id": "f7cbd79a-19fc-41e4-b6de-8e317141db97",
-      "doc_id": "f7cbd79a-19fc-41e4-b6de-8e317141db97",
-      "updated": 1703643660000,
-      "properties": {
-        "categories": "博客折腾手册",
-        "tags": [],
-        "title": "利用elog同步notion文章到halo博客附带GitHub图床",
-        "date": "2023-12-25 08:37:00",
-        "updated": "2023-12-27 10:21:00"
-      },
-      "realName": "利用elog同步notion文章到halo博客附带GitHub图床",
-      "relativePath": "/利用elog同步notion文章到halo博客附带GitHub图床.md",
-      "docPath": "./source/_posts"
-    },
-    {
-      "id": "86772792-f5b6-4d3c-85df-26e109178bfc",
-      "doc_id": "86772792-f5b6-4d3c-85df-26e109178bfc",
-      "updated": 1703643180000,
-      "properties": {
-        "cover": "/images/f3217a53375fa77f12925bfbc2f46bb1.png",
-        "categories": "博客折腾手册",
-        "tags": [],
-        "title": "利用github action自动同步notion文章到halo博客",
-        "date": "2023-12-26 19:00:00",
-        "updated": "2023-12-27 10:13:00"
-      },
-      "realName": "利用github action自动同步notion文章到halo博客",
-      "relativePath": "/利用github action自动同步notion文章到halo博客.md",
-      "docPath": "./source/_posts"
-    },
-    {
-      "id": "51d2bb99-5971-40dc-9f36-2cf383ec8298",
-      "doc_id": "51d2bb99-5971-40dc-9f36-2cf383ec8298",
-      "updated": 1703652720000,
-      "properties": {
-        "cover": "/images/ac32102899d496319072be46e481edce.png",
-        "categories": "影视库搭建",
-        "tags": [
-          "emby"
-        ],
-        "title": "使用 Plex & Docker 搭建自己的媒体服务器",
-        "date": "2023-11-17 15:37:00",
-        "updated": "2023-12-27 12:52:00"
-      },
-      "realName": "使用 Plex & Docker 搭建自己的媒体服务器",
-      "relativePath": "/使用 Plex & Docker 搭建自己的媒体服务器.md",
+      "realName": "Docker一个反向代理神器—Nginx Proxy Manager",
+      "relativePath": "/Docker一个反向代理神器—Nginx Proxy Manager.md",
       "docPath": "./source/_posts"
     }
   ],
   "catalog": [
     {
       "object": "page",
-      "id": "86772792-f5b6-4d3c-85df-26e109178bfc",
-      "created_time": "2023-12-26T11:00:00.000Z",
-      "last_edited_time": "2023-12-27T02:13:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "c715efbb-b3fc-4f36-b661-4e216adf5512"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "c715efbb-b3fc-4f36-b661-4e216adf5512"
-      },
-      "cover": {
-        "type": "external",
-        "external": {
-          "url": "https://bu.dusays.com/2023/10/12/6527ab3b524bf.png?t=1ab6b359-03fa-4d3a-8a7e-6d0871344a97"
-        }
-      },
-      "icon": null,
-      "parent": {
-        "type": "database_id",
-        "database_id": "a0c61e9b-a4c2-4bc9-a9f7-fd4ec68a3423"
-      },
-      "archived": false,
-      "properties": {
-        "cover": "https://bu.dusays.com/2023/10/12/6527ab3b524bf.png?t=1ab6b359-03fa-4d3a-8a7e-6d0871344a97",
-        "categories": "博客折腾手册",
-        "publish": true,
-        "excerpt": "",
-        "autoExcerpt": true,
-        "tags": [],
-        "status": "待发布",
-        "Created time": "2023-12-26T11:00:00.000Z",
-        "pinned": "",
-        "public": true,
-        "urlname": "86772792-f5b6-4d3c-85df-26e109178bfc",
-        "title": "利用github action自动同步notion文章到halo博客",
-        "URL": "https://matrixcore.top/article/elog",
-        "date": "2023-12-26 19:00:00",
-        "updated": "2023-12-27 10:13:00"
-      },
-      "url": "https://www.notion.so/github-action-notion-halo-86772792f5b64d3c85df26e109178bfc",
-      "public_url": null
-    },
-    {
-      "object": "page",
-      "id": "f7cbd79a-19fc-41e4-b6de-8e317141db97",
-      "created_time": "2023-12-25T00:37:00.000Z",
-      "last_edited_time": "2023-12-27T02:21:00.000Z",
+      "id": "90d060e7-6d78-4f18-9824-260e95197194",
+      "created_time": "2023-12-25T06:33:00.000Z",
+      "last_edited_time": "2023-12-27T04:56:00.000Z",
       "created_by": {
         "object": "user",
         "id": "c715efbb-b3fc-4f36-b661-4e216adf5512"
@@ -128,56 +35,9 @@
         "id": "c715efbb-b3fc-4f36-b661-4e216adf5512"
       },
       "cover": null,
-      "icon": null,
-      "parent": {
-        "type": "database_id",
-        "database_id": "a0c61e9b-a4c2-4bc9-a9f7-fd4ec68a3423"
-      },
-      "archived": false,
-      "properties": {
-        "cover": "",
-        "categories": "博客折腾手册",
-        "publish": true,
-        "excerpt": "",
-        "autoExcerpt": true,
-        "tags": [],
-        "status": "待发布",
-        "Created time": "2023-12-25T00:37:00.000Z",
-        "pinned": "",
-        "public": true,
-        "urlname": "f7cbd79a-19fc-41e4-b6de-8e317141db97",
-        "title": "利用elog同步notion文章到halo博客附带GitHub图床",
-        "URL": "",
-        "date": "2023-12-25 08:37:00",
-        "updated": "2023-12-27 10:21:00"
-      },
-      "url": "https://www.notion.so/elog-notion-halo-GitHub-f7cbd79a19fc41e4b6de8e317141db97",
-      "public_url": null
-    },
-    {
-      "object": "page",
-      "id": "51d2bb99-5971-40dc-9f36-2cf383ec8298",
-      "created_time": "2023-11-17T07:37:00.000Z",
-      "last_edited_time": "2023-12-27T04:52:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "c715efbb-b3fc-4f36-b661-4e216adf5512"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "c715efbb-b3fc-4f36-b661-4e216adf5512"
-      },
-      "cover": {
-        "type": "external",
-        "external": {
-          "url": "https://img.hinatarin.com:23333/img/20210421130630.png"
-        }
-      },
       "icon": {
-        "type": "external",
-        "external": {
-          "url": "https://blog.hinatarin.com/img/favicon.png"
-        }
+        "type": "emoji",
+        "emoji": "👉"
       },
       "parent": {
         "type": "database_id",
@@ -185,68 +45,17 @@
       },
       "archived": false,
       "properties": {
-        "cover": "/images/ac32102899d496319072be46e481edce.png",
-        "categories": "影视库搭建",
+        "categories": "建站",
         "tags": [
-          "emby"
+          "docker",
+          "CF",
+          "反代"
         ],
-        "title": "使用 Plex & Docker 搭建自己的媒体服务器",
-        "date": "2023-11-17 15:37:00",
-        "updated": "2023-12-27 12:52:00"
+        "title": "Docker一个反向代理神器—Nginx Proxy Manager",
+        "date": "2023-12-25 14:33:00",
+        "updated": "2023-12-27 12:56:00"
       },
-      "url": "https://www.notion.so/Plex-Docker-51d2bb99597140dc9f362cf383ec8298",
-      "public_url": null
-    },
-    {
-      "object": "page",
-      "id": "c97762fc-f3ce-4d42-bbef-a25a5b741b7c",
-      "created_time": "2023-11-16T02:40:00.000Z",
-      "last_edited_time": "2023-12-27T02:21:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "c715efbb-b3fc-4f36-b661-4e216adf5512"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "c715efbb-b3fc-4f36-b661-4e216adf5512"
-      },
-      "cover": {
-        "type": "external",
-        "external": {
-          "url": "https://www.myfreax.com/content/images/2019/10/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization.webp"
-        }
-      },
-      "icon": {
-        "type": "external",
-        "external": {
-          "url": "https://www.myfreax.com/favicon.png"
-        }
-      },
-      "parent": {
-        "type": "database_id",
-        "database_id": "a0c61e9b-a4c2-4bc9-a9f7-fd4ec68a3423"
-      },
-      "archived": false,
-      "properties": {
-        "cover": "https://www.myfreax.com/content/images/2019/10/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization.webp",
-        "categories": "linux",
-        "publish": true,
-        "excerpt": "",
-        "autoExcerpt": true,
-        "tags": [
-          "linux命令"
-        ],
-        "status": "待发布",
-        "Created time": "2023-11-16T02:40:00.000Z",
-        "pinned": "",
-        "public": true,
-        "urlname": "c97762fc-f3ce-4d42-bbef-a25a5b741b7c",
-        "title": "Linux rsync 命令同步文件与目录文件夹",
-        "URL": "",
-        "date": "2023-11-16 10:40:00",
-        "updated": "2023-12-27 10:21:00"
-      },
-      "url": "https://www.notion.so/Linux-rsync-c97762fcf3ce4d42bbefa25a5b741b7c",
+      "url": "https://www.notion.so/Docker-Nginx-Proxy-Manager-90d060e76d784f189824260e95197194",
       "public_url": null
     }
   ]
