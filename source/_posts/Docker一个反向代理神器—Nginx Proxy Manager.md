@@ -1,4 +1,12 @@
-
+---
+cover: /images/957bb3bec66723aab49d69ec5bd821b1.webp
+categories: 建站
+tags:
+  - docker
+title: Docker一个反向代理神器—Nginx Proxy Manager
+date: '2023-11-16 10:40:00'
+updated: '2023-12-27 10:21:00'
+---
 # 【Docker系列】一个反向代理神器——Nginx Proxy Manager
 
 
