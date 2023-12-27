@@ -1,11 +1,6 @@
 - class_name: 友情链接
   class_desc: 那些人，那些事
   link_list:
-    - name: '1874'
-      link: https://1874.cool/
-      avatar: https://1874.cool/favicon.ico
-      descr: 有粤语歌就不会有世界末日
-
     - name: Elog
       link: https://elog.1874.cool/
       avatar: https://elog.1874.cool/favicon.ico
@@ -28,7 +23,3 @@
       link: https://www.youtube.com/
       avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
       descr: 视频网站
-    - name: X
-      link: https://x.com/
-      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
-      descr: 社交分享平台

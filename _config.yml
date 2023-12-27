@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Notion-Hexo
-subtitle: 'Notion + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
-description: 'Notion + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
+title: 屌博客
+subtitle: '屌博客备份网站'
+description: '測試'
 keywords:
-author: 1874
+author: 屌博客
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -103,3 +103,6 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+sitemap:
+  path: sitemap.xml
