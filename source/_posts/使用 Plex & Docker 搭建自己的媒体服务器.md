@@ -5,7 +5,7 @@ tags:
   - emby
 title: 使用 Plex & Docker 搭建自己的媒体服务器
 date: '2023-11-17 15:37:00'
-updated: '2023-12-27 12:22:00'
+updated: '2023-12-27 12:30:00'
 ---
 
 Plex 是 Plex，Inc. 制造的全球流媒体服务和客户端服务器媒体播放器平台。PlexMedia Server 整理用户收藏和在线服务中的视频，音频和照片，并将其流式传输到播放器。尽管提供多种媒体服务， 我这里的需求只是流媒体播放我的本地音乐集~还有 R 音声作品~而已，所以关于后面的媒体配置相关都是关于**音乐** 的， 使用 **Docker** 和 [**linuxserver**](https://www.linuxserver.io/) 提供的 [**镜像**](https://hub.docker.com/r/linuxserver/plex) 搭建 Plex Server 非常简单
