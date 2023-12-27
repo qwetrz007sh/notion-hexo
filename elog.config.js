@@ -4,7 +4,7 @@ module.exports = {
     notion: {
       token: process.env.NOTION_TOKEN,
       databaseId: process.env.NOTION_DATABASE_ID,
-      filter: { property: 'status', select: { equals: '已发布' }}
+      filter: { property: 'status', select: { equals: '待发布' }}
     }
   },
   deploy: {
