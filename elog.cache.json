@@ -3,34 +3,34 @@
     {
       "id": "c97762fc-f3ce-4d42-bbef-a25a5b741b7c",
       "doc_id": "c97762fc-f3ce-4d42-bbef-a25a5b741b7c",
-      "updated": 1703588340000,
+      "updated": 1703643360000,
       "properties": {
         "cover": "/images/957bb3bec66723aab49d69ec5bd821b1.webp",
         "categories": "linux",
         "tags": [
           "linux命令"
         ],
-        "title": "Linux rsync 命令同步文件与目录 / 文件夹 | myfreax",
+        "title": "Linux rsync 命令同步文件与目录 / 文件夹",
         "date": "2023-11-16 10:40:00",
-        "updated": "2023-12-26 18:59:00"
+        "updated": "2023-12-27 10:16:00"
       },
-      "realName": "Linux rsync 命令同步文件与目录 ! 文件夹 ! myfreax",
-      "relativePath": "/Linux rsync 命令同步文件与目录 ! 文件夹 ! myfreax.md",
+      "realName": "Linux rsync 命令同步文件与目录 ! 文件夹",
+      "relativePath": "/Linux rsync 命令同步文件与目录 ! 文件夹.md",
       "docPath": "./source/_posts"
     },
     {
       "id": "f7cbd79a-19fc-41e4-b6de-8e317141db97",
       "doc_id": "f7cbd79a-19fc-41e4-b6de-8e317141db97",
-      "updated": 1703643180000,
+      "updated": 1703643360000,
       "properties": {
         "categories": "博客折腾手册",
         "tags": [],
-        "title": "利用elog同步notion文章到halo博客（附带GitHub图床）",
+        "title": "利用elog同步notion文章到halo博客 附带GitHub图床",
         "date": "2023-12-25 08:37:00",
-        "updated": "2023-12-27 10:13:00"
+        "updated": "2023-12-27 10:16:00"
       },
-      "realName": "利用elog同步notion文章到halo博客（附带GitHub图床）",
-      "relativePath": "/利用elog同步notion文章到halo博客（附带GitHub图床）.md",
+      "realName": "利用elog同步notion文章到halo博客 附带GitHub图床",
+      "relativePath": "/利用elog同步notion文章到halo博客 附带GitHub图床.md",
       "docPath": "./source/_posts"
     },
     {
@@ -77,10 +77,19 @@
       },
       "archived": false,
       "properties": {
-        "cover": "/images/f3217a53375fa77f12925bfbc2f46bb1.png",
+        "cover": "https://bu.dusays.com/2023/10/12/6527ab3b524bf.png?t=1ab6b359-03fa-4d3a-8a7e-6d0871344a97",
         "categories": "博客折腾手册",
+        "publish": true,
+        "excerpt": "",
+        "autoExcerpt": true,
         "tags": [],
+        "status": "待发布",
+        "Created time": "2023-12-26T11:00:00.000Z",
+        "pinned": "",
+        "public": true,
+        "urlname": "86772792-f5b6-4d3c-85df-26e109178bfc",
         "title": "利用github action自动同步notion文章到halo博客",
+        "URL": "https://matrixcore.top/article/elog",
         "date": "2023-12-26 19:00:00",
         "updated": "2023-12-27 10:13:00"
       },
@@ -91,7 +100,7 @@
       "object": "page",
       "id": "f7cbd79a-19fc-41e4-b6de-8e317141db97",
       "created_time": "2023-12-25T00:37:00.000Z",
-      "last_edited_time": "2023-12-27T02:13:00.000Z",
+      "last_edited_time": "2023-12-27T02:16:00.000Z",
       "created_by": {
         "object": "user",
         "id": "c715efbb-b3fc-4f36-b661-4e216adf5512"
@@ -110,9 +119,9 @@
       "properties": {
         "categories": "博客折腾手册",
         "tags": [],
-        "title": "利用elog同步notion文章到halo博客（附带GitHub图床）",
+        "title": "利用elog同步notion文章到halo博客 附带GitHub图床",
         "date": "2023-12-25 08:37:00",
-        "updated": "2023-12-27 10:13:00"
+        "updated": "2023-12-27 10:16:00"
       },
       "url": "https://www.notion.so/elog-notion-halo-GitHub-f7cbd79a19fc41e4b6de8e317141db97",
       "public_url": null
@@ -121,7 +130,7 @@
       "object": "page",
       "id": "c97762fc-f3ce-4d42-bbef-a25a5b741b7c",
       "created_time": "2023-11-16T02:40:00.000Z",
-      "last_edited_time": "2023-12-26T10:59:00.000Z",
+      "last_edited_time": "2023-12-27T02:16:00.000Z",
       "created_by": {
         "object": "user",
         "id": "c715efbb-b3fc-4f36-b661-4e216adf5512"
@@ -148,25 +157,16 @@
       },
       "archived": false,
       "properties": {
-        "cover": "https://www.myfreax.com/content/images/2019/10/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization.webp",
+        "cover": "/images/957bb3bec66723aab49d69ec5bd821b1.webp",
         "categories": "linux",
-        "publish": true,
-        "excerpt": "",
-        "autoExcerpt": true,
         "tags": [
           "linux命令"
         ],
-        "status": "待发布",
-        "Created time": "2023-11-16T02:40:00.000Z",
-        "pinned": "",
-        "public": true,
-        "urlname": "c97762fc-f3ce-4d42-bbef-a25a5b741b7c",
-        "title": "Linux rsync 命令同步文件与目录 / 文件夹 | myfreax",
-        "URL": "https://www.myfreax.com/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/",
+        "title": "Linux rsync 命令同步文件与目录 / 文件夹",
         "date": "2023-11-16 10:40:00",
-        "updated": "2023-12-26 18:59:00"
+        "updated": "2023-12-27 10:16:00"
       },
-      "url": "https://www.notion.so/Linux-rsync-myfreax-c97762fcf3ce4d42bbefa25a5b741b7c",
+      "url": "https://www.notion.so/Linux-rsync-c97762fcf3ce4d42bbefa25a5b741b7c",
       "public_url": null
     }
   ]
