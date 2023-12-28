@@ -212,11 +212,70 @@ C:\Program Files\DAUM\PotPlayer\PotPlayerMini64.exe
 ![Untitled.png](/images/e7aff7a017e70216ab0d8641099e7f4b.png)
 
 
-![Untitled.png](/images/11de3536d32c117548dd9544c545de37.png)
+![Untitled.png](/images/ca84ceef932bd0a46d9dc1a845f7c1bb.png)
 
 
 # 如何添加资源？
 
 
-先联系服主加入微信群，然后观看群公告
+先联系服主加入微信群
+
+
+## 2.使用网页添加订阅（麻烦， 不推荐）
+
+先联系服主加入微信群，然后查看群公告，登入这个网址nt.****.xyz里面后
+
+
+![Untitled.png](/images/63a0de7ed20293551c5021af8b9efc18.png)
+
+
+找到你要的片子，点：桃心
+
+
+![Untitled.png](/images/9b3361640ce08a8fea13104feaf548e5.png)
+
+
+然后点：确定
+
+
+![Untitled.png](/images/fc137dd36f8da4a0c5d9c614e8da198e.png)
+
+
+再点 确定，即可
+
+
+![Untitled.png](/images/15dcec6833a96fea8c656871a86927e4.png)
+
+
+注意：不要直接使用搜索功能下载种子，系统会自动搜索识别正常种子下载的
+
+
+![Untitled.png](/images/64be3bba50960ed68249411a6a8a28cc.png)
+
+
+### 然后再在群里问群主要微信机器人通知二维码
+
+
+扫描二维码关注机器人后，会收到下载和资源入库的通知
+
+
+![Untitled.png](/images/56c3f8a4efd9d3ee2eb26751c4c4912c.png)
+
+
+### 已完成订阅，代表：正在下载
+
+
+### 已入库，代表：可以观看了
+
+
+如果1天过去了，还没入库，请联系群主检查资源是否正常
+
+
+## 你也可以使用机器人来添加订阅
+
+
+![Untitled.png](/images/b4155d9a3453fa49b89015f128db4fbd.png)
+
+
+![Untitled.png](/images/ea2856446f219e57f7ead2f875de90f9.png)
 
