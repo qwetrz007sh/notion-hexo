@@ -4,7 +4,7 @@
 
 - 写作平台：Notion
 - 博客平台：[Hexo](https://hexo.io/)
-- 博客主题：[Aurora](https://aurora.tridiamond.tech/cn/)
+- 博客主题：[Butterfly@4.10.0](https://github.com/jerryc127/hexo-theme-butterfly)
 - 博客文档同步：[Elog](https://github.com/LetTTGACO/elog)
 - 部署平台：Vercel
 
@@ -71,7 +71,7 @@ npm run server
 ## 7. 配置 Hexo 博客
 
 
-根据 [Hexo](https://hexo.io/) 文档和 [Aurora](https://aurora.tridiamond.tech/cn/)主题配置文档，配置你的博客直到你满意为主，你也可以换别的主题，这里不做演示
+根据 [Hexo](https://hexo.io/) 文档和 [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 主题配置文档，配置你的博客直到你满意为主，你也可以换别的主题，这里不做演示
 
 
 ## 8. 提交代码到 github
@@ -151,11 +151,12 @@ https://serverless-api-elog.vercel.app/api/github?user=xxx&repo=xxx&event_type=d
 如果想自定义 Elog 配置，可访问 [Elog 文档](https://elog.1874.cool/)
 
 
-# 博客示例
+# 示例
 
 
 示例仓库：[https://github.com/LetTTGACO/notion-hexo](https://github.com/LetTTGACO/notion-hexo)
 
+Notion数据库模版：[elog-hexo-template](https://1874.notion.site/867486af567f4a8897427b15ffd10b3c?v=a25aec8e27d5415e8605e43034f822bd&pvs=4)
 
 博客示例地址：[https://notion-hexo.vercel.app](https://notion-hexo.vercel.app/)
 
